@@ -55,7 +55,7 @@ const Home: React.FC = () => {
                 'linear-gradient(40deg, rgba(243, 221, 254, 1), rgba(255, 188, 212, 1) 20%, rgba(243, 221, 254, 0.75) 50%, rgba(237, 188, 245, 1) 84%, rgba(194, 109, 238, 1) 94%);',
             }}
           >
-            Content
+            <img src="/main.svg" />
           </Content>
         </Layout>
       </Layout>
